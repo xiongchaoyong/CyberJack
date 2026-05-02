@@ -1,8 +1,18 @@
-# cyberJack
+# CyberJack
 
-cyberJack 是一个微信数字人桥接层。它把微信消息接入 AI runtime（DeepSeek 或 Codex），再配合 Skill 系统，让 AI 以指定人格在微信中与用户持续对话。
+**CyberJack** 是一个微信数字人桥接层。它把微信消息接入 AI runtime（DeepSeek 或 Codex），再配合 Skill系统，让 AI 以指定人格在微信中与用户持续对话。
 
-基于[cyberboss](https://github.com/WenXiaoWendy/cyberboss) 项目
+蒸馏内容来自Jack叔叔的粉丝切片，总计约70w字，制作成Skill。内容或有出入，实际以直播为主。
+
+**抖音: Jack要加油**
+
+**b站: Jack和Linda**
+
+**小红书: Jack和Linda**
+
+**本项目基于[cyberboss](https://github.com/WenXiaoWendy/cyberboss) 项目，感谢开源**
+
+
 
 ## 核心逻辑
 
@@ -111,3 +121,9 @@ shared app-server deepseek_mode listen=ws://127.0.0.1:8765
 ## License
 
 AGPL-3.0-only
+
+
+
+## 写在最后
+
+作者技术有限，若有不足之处，欢迎指正！
